@@ -1,0 +1,1 @@
+Site inspirado em site da starbucks com foco nas habilidades de HTML e CSS
